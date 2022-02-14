@@ -1,0 +1,27 @@
+h1 { 
+    text-align: center;
+    font-size: 35px;
+    margin: 3%;
+    color: rgb(158, 27, 27);
+}
+
+h4 {
+    margin-top: 5px;
+    color: #E50000;
+}
+
+img {
+    margin-left: 25%;
+    border-radius: 5%;
+
+}
+
+p {
+    font-size: 20px;
+    color: #700a0a;
+}
+
+body { 
+    margin: 3%;
+    background-color: rgba(255, 4, 0, 0.1);
+}
